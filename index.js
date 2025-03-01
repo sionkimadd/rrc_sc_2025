@@ -1,2 +1,2 @@
-const password = "Hello, World!";
-console.log(password);
+const password = 'Hello, World!'
+console.log(password)

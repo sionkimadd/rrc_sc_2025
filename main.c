@@ -1,7 +1,12 @@
-#include <stdio.h>
+/*
+ * Copyright 2025 sionkimadd
+ */
 
-int main(void) {
-    char *password = "Hello, World!";
-    printf("%s\n", password);
-    return 0;
-}
+ #include <stdio.h>
+
+ int main(void) {
+     const char *password = "Hello, World!";
+     printf("%s\n", password);
+     return 0;
+ }
+ 

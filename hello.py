@@ -1,2 +1,2 @@
-password = "Hello, World!"
-print(password)
+word = "Hello, World!"
+print(word)
